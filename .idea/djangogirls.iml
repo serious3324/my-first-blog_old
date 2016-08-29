@@ -10,6 +10,7 @@
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/myvenv/lib/python3.5/site-packages/django/contrib/gis/templates" />
+        <option value="$MODULE_DIR$/blog/templates" />
       </list>
     </option>
   </component>
